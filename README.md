@@ -48,3 +48,7 @@ Solo necesitas informar el puntaje del juego actual. Los conjuntos y las coincid
 - ¿Qué le dirías a tu colega si hubiera escrito este código?
 
 - ¿Qué le dirías a tu jefe sobre el valor de este trabajo de refactorización? ¿Hubo más razones para hacerlo más allá de la hora extra facturable?
+
+
+# Test passed 
+![image](https://user-images.githubusercontent.com/45043430/162342934-e7dcad7a-2b32-431e-89bf-b669787c4646.png)
